@@ -1,0 +1,23 @@
+1)string =hi there sam
+Print (string split())
+Output
+['hi', 'there', 'sam']
+2)a)import.numpy as np
+array=NP. zero s(10)
+print("An array of 10 zero")
+Print (array)
+Output
+[0.0.0.0.0.0.0.0.0.0]
+2)b)import. numpy as np
+array=np.five[10]*5
+Print("An array of 10 five")
+Print(array)
+Output
+[5.5.5.5.5.5.5.5.5.5]
+3)import numpy as  np
+x=np.arrange(0,9)reshape(3,3)
+Print(x)
+Output
+[[0,1,2]
+[3,4,5]
+[6,7,8]
